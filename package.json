@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "ky": "2.0.2",
-    "yargs": "18.0.0"
+    "yargs": "18.1.0"
   },
   "devDependencies": {
     "@tsconfig/node24": "24.0.4",
