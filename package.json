@@ -15,7 +15,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "ky": "1.14.1",
+    "ky": "2.0.2",
     "yargs": "18.0.0"
   },
   "devDependencies": {
